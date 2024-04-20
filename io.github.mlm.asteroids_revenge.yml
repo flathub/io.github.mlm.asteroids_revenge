@@ -37,5 +37,5 @@ modules:
         url: https://raw.githubusercontent.com/mlm-games/asteroids-revenge/main/flathub_stuff/io.github.mlm.asteroids_revenge.metainfo.xml
         sha256: 9b53fba6f97b357d1d90fa4fb577e070e95c5188fdb9c29e1a182adac76a9241
       - type: file      
-        url: https://raw.githubusercontent.com/mlm-games/asteroids-revenge/30b6441a0b5377d9d7935abf7072cebb62070a27/flathub_stuff/icon.png
+        url: https://raw.githubusercontent.com/mlm-games/asteroids-revenge/main/flathub_stuff/icon.png
         sha256: 7d3ea2a169a3ca76ba958052fba5071c0a1ba4be62b4410544bc484223336a5a
