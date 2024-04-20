@@ -31,11 +31,9 @@ modules:
         only-arches:
           - aarch64
       - type: file
-        url: https://raw.githubusercontent.com/mlm-games/asteroids-revenge/main/flathub_stuff/io.github.mlm.asteroids_revenge.desktop
-        sha256: 4755412b6de61aa5b1565f5df744ee5d09e7333c91fd236dbc696b54fcfe08be
+        path: io.github.mlm.asteroids_revenge.desktop
       - type: file
-        url: https://raw.githubusercontent.com/mlm-games/asteroids-revenge/main/flathub_stuff/io.github.mlm.asteroids_revenge.metainfo.xml
-        sha256: 9b53fba6f97b357d1d90fa4fb577e070e95c5188fdb9c29e1a182adac76a9241
+        path: io.github.mlm.asteroids_revenge.metainfo.xml
       - type: file      
         url: https://raw.githubusercontent.com/mlm-games/asteroids-revenge/main/flathub_stuff/icon.png
         sha256: 58e6fab34e60a57c5da874068951a2faec60f345d0232e853e25c2e7ed7a9bd7
