@@ -35,5 +35,4 @@ modules:
       - type: file
         path: io.github.mlm.asteroids_revenge.metainfo.xml
       - type: file      
-        url: https://raw.githubusercontent.com/mlm-games/asteroids-revenge/main/flathub_stuff/icon.png
-        sha256: 58e6fab34e60a57c5da874068951a2faec60f345d0232e853e25c2e7ed7a9bd7
+        path: icon.png
